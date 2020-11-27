@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recherche-par-image-650x650.jpg</file>
+    </qresource>
+</RCC>
